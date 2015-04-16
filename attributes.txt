@@ -1,0 +1,3 @@
+hr_reading 12
+temp_reading 17
+acc_reading 21

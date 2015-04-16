@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<configuration>
+
+	<service uuid="1800">
+		<description>Generic Access Profile</description>
+
+      	<characteristic uuid="2a00">
+        	<properties read="true" const="true" />
+        	<value>trial_1</value>
+      	</characteristic>
+
+      	<characteristic uuid="2a01">
+        	<properties read="true" const="true" />
+        	<value type="hex">192</value>
+      	</characteristic>
+    </service>
+
+    <service type="primary" uuid="180A" id="manufacturer">
+        <characteristic uuid="2A29">
+            <properties read="true" const="true" />
+            <value>Bluegiga</value>
+        </characteristic>
+    </service>
+
+    <service uuid="180d" advertise="true">
+       	<description>HR Readings</description>
+       	<include id="manufacturer" />
+      	<characteristic uuid="2a37" id="hr_reading">
+          	<properties notify="true" />
+          	<value length="16" />
+      	</characteristic>
+    </service>   
+
+    <service uuid="1809" advertise="true">	
+		  <include id="manufacturer" />
+		  <description>Thermometer Service</description>		
+		  <characteristic uuid="2a1c" id="temp_reading">
+			 <properties notify="true"  />
+			 <value length="2"/>
+      </characteristic> 
+	 </service>
+
+    <service uuid="6d480f49-91d3-4a18-be29-0d27f4109c23">
+        <description>Bluegiga accelerometer demo service</description>
+        <characteristic uuid="11c3876c-9bda-42cc-a30b-1be83c8059d3" id="acc_reading">
+            <properties read="true" notify="true"/>
+            <value length="3" />
+        </characteristic>
+    </service>
+    
+
+</configuration>	

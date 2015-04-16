@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<configuration>
+
+	<service uuid="1800">
+		<description>Generic Access Profile</description>
+
+      	<characteristic uuid="2a00">
+        	<properties read="true" const="true" />
+        	<value>trial_1</value>
+      	</characteristic>
+
+      	<characteristic uuid="2a01">
+        	<properties read="true" const="true" />
+        	<value type="hex">192</value>
+      	</characteristic>
+    </service>
+
+    <service type="primary" uuid="180A" id="manufacturer">
+        <characteristic uuid="2A29">
+            <properties read="true" const="true" />
+            <value>Bluegiga</value>
+        </characteristic>
+    </service>  
+
+    <service uuid="000000000046616e20436f6e74726f6c" advertise="true">
+      <description>Fan Control</description>
+      <characteristic uuid="0000000000000046616e2056616c7565" id="fan_value">
+        <properties read="true" write="true"/>
+        <value length="1" />
+      </characteristic>
+    </service>
+
+    <service uuid="0000004c6967687420436f6e74726f6c" advertise="true">
+      <description>Light Control</description>
+      <characteristic uuid="00000000004c696768742056616c7565" id="light_value">
+        <properties read="true" write="true"/>
+        <value length="1" />
+      </characteristic>
+    </service>
+
+</configuration>	

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<project>
+    <gatt in="gatt_wearable.xml" />
+    <hardware in="hardware_wearable.xml" />   
+    <script in="wearable.bgs" />
+    <image out="werable_out.hex" />    
+    <device type="ble113-m256k" />
+	<boot fw="bootuart" />
+</project>

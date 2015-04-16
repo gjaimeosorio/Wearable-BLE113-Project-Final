@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<project>
+    <gatt in="gatt_terminal.xml" />
+    <hardware in="hardware_terminal.xml" />   
+    <script in="terminal.bgs" />
+    <image out="terminal.hex" />    
+    <device type="ble113-m256k" />
+	<boot fw="bootuart" />
+</project>

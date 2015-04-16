@@ -1,0 +1,19 @@
+BLE113 Pins
+
+Wearable
+P10 output --> chip select
+
+P01 input --> temp reading
+
+P02 input --> hr reading
+
+P07 input --> 1 volt ref
+
+Terminal
+P12 output
+P13 output --> SPI Ch0 Alt2 Clk
+P14 input
+P15 output --> SPI Ch0 Alt2 DO
+
+SCL, SDA --> I2C
+

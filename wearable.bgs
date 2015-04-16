@@ -1,0 +1,88 @@
+### declare variable for building attribute value
+# reading temp variables
+dim buffer_hr(16)
+dim tmp_hr(2)
+dim buffer_temp(2)
+dim tmp_i2c
+
+# variables for i2c reading procedures
+dim acc(12)
+dim i2c_result
+dim data_len
+
+# adc_transmit counter
+dim c_adc
+
+const acc_addr = $1D # accel address
+
+
+event system_boot(major,minor,patch,build,ll_version,protocol,hw)
+    
+    ### set up i/o pins
+    # call hardware_io_port_config_direction(channel,direction) 0 is input 1 is output
+    #call hardware_io_port_config_direction(0,0)
+
+    ###  start accelerometer
+    #acc(0:1) = $2a  # CTRL_REG1 register address
+    #acc(1:1) = $03  # enable accelerometer, set fast mode
+    #acc(1:1) = $01 # enable accelerometer, disable fast mode
+    #call hardware_i2c_write($3a, 1, 2, acc(0:2))
+    call hardware_i2c_write("\x3a", 1, 2, "\x2a\x01")
+    
+    ### start advertising in connectable mode
+    call gap_set_mode(gap_general_discoverable,gap_undirected_connectable)
+    
+    ### initialize adc counter
+    c_adc = 0
+
+    ### set up software time 2^22 correspond to 256 seconds, crystal frequency is 32768 Hz
+    #call hardware_set_soft_timer(32768,0,0)    # 1 period per second, 
+    #call hardware_set_soft_timer(4096,0,0)      
+    call hardware_set_soft_timer(1024,0,0)     
+
+end
+
+
+### timer event
+event hardware_soft_timer(handle)
+
+    ## ADC code
+    call hardware_adc_read(1,3,1)       # temperature reading pin P0_1
+    call hardware_adc_read(2,3,2)       # hr reading pin P0_2
+    c_adc = c_adc + 1                   # increment counter after buffer update
+
+    ## I2C
+    acc(0:1) = 1
+    #call hardware_i2c_write($3a, 0, 1, acc(0:1))
+    call hardware_i2c_write("\x3a", 0, 1, "\x01")
+    #call hardware_i2c_read($38, 1, 6)(i2c_result, data_len, acc(0:data_len))
+    call hardware_i2c_read("\x3b", 1, 3)(i2c_result, data_len, acc(0:data_len))
+    call attributes_write(acc_reading,0,data_len,acc(0:data_len))
+end
+
+### adc read handler
+event hardware_adc_result(input,value)
+    if (c_adc>7) then
+        # handle hr reading
+        if (input = 2) then     
+            call attributes_write(hr_reading, 0, 16, buffer_hr(0:16))  
+            c_adc = 0                 
+        end if
+
+        # handle temp reading
+        if (input = 1) then
+            buffer_temp(0:2) = ((value >> 4) - 1024)    # shift out empty bits and subtract offset
+            call attributes_write(temp_reading,0,2,buffer_temp(0:2))
+        end if                   	  		
+    end if
+    
+    # update hr buffer
+    if (input = 2) then  	
+        buffer_hr(c_adc*2:2) = value
+    end if    
+end
+
+event connection_disconnected(handle,result)
+    #start advertising again after disconnection
+    call gap_set_mode(gap_general_discoverable,gap_undirected_connectable)
+end
