@@ -23,10 +23,6 @@ event system_boot(major,minor,patch,build,ll_version,protocol,hw)
     #call hardware_io_port_config_direction(0,0)
 
     ###  start accelerometer
-    #acc(0:1) = $2a  # CTRL_REG1 register address
-    #acc(1:1) = $03  # enable accelerometer, set fast mode
-    #acc(1:1) = $01 # enable accelerometer, disable fast mode
-    #call hardware_i2c_write($3a, 1, 2, acc(0:2))
     call hardware_i2c_write("\x3a", 1, 2, "\x2a\x01")
     
     ### start advertising in connectable mode
@@ -53,9 +49,7 @@ event hardware_soft_timer(handle)
 
     ## I2C
     acc(0:1) = 1
-    #call hardware_i2c_write($3a, 0, 1, acc(0:1))
     call hardware_i2c_write("\x3a", 0, 1, "\x01")
-    #call hardware_i2c_read($38, 1, 6)(i2c_result, data_len, acc(0:data_len))
     call hardware_i2c_read("\x3b", 1, 3)(i2c_result, data_len, acc(0:data_len))
     call attributes_write(acc_reading,0,data_len,acc(0:data_len))
 end
