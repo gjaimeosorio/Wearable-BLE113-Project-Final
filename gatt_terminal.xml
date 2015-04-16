@@ -23,8 +23,8 @@
     </service>  
 
     <service uuid="000000000046616e20436f6e74726f6c" advertise="true">
-      <description>Fan Control</description>
-      <characteristic uuid="0000000000000046616e2056616c7565" id="fan_value">
+      <description>Thermo Control</description>
+      <characteristic uuid="0000000000000046616e2056616c7565" id="thermo_value">
         <properties read="true" write="true"/>
         <value length="1" />
       </characteristic>
@@ -37,5 +37,6 @@
         <value length="1" />
       </characteristic>
     </service>
+
 
 </configuration>	

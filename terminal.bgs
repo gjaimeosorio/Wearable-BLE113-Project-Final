@@ -2,9 +2,8 @@
 ### define variable for attributes_read
 # digi-pot variable
 dim wiper0
-dim wiper1
 dim light_current
-dim fan_current
+dim thermo
 dim spi_command(2)
 dim delay
 
@@ -23,12 +22,10 @@ event system_boot(major,minor,patch,build,ll_version,protocol,hw)
 
     ### spi seting
     wiper0 = "\x02"
-    wiper1 = "\x03"
     light_current = 0
-    fan_current = 0
 
     call hardware_io_port_config_direction(1,$FF) # set all port 1 pins to output  
-    call hardware_io_port_config_direction(0,$FF) # set all port 0 pins to output 
+    call hardware_io_port_config_direction(0,$0F) # P00 out, p01-p03 out
     
     call hardware_io_port_write(0,$1,$1) #use P0_0 as chip select
 
@@ -41,10 +38,10 @@ end
 event hardware_soft_timer(handle)
 
  ## SPI code
-    # fan reading
-    call attributes_read(fan_value, 0)(rhandle, roffset, rresult, rvalue_len, rvalue_data)
-    if (rvalue_data != fan_current) then
-        fan_current = rvalue_data
+    # light
+    call attributes_read(light_value, 0)(rhandle, roffset, rresult, rvalue_len, rvalue_data)
+    if (rvalue_data != light_current) then
+        light_current = rvalue_data
         call hardware_io_port_write(0,$1,$0) #enable chip select
 
         delay = $fffff
@@ -53,7 +50,7 @@ event hardware_soft_timer(handle)
         end while
 
         spi_command(0:1) = wiper0
-        spi_command(1:1) = fan_current
+        spi_command(1:1) = light_current
         call hardware_spi_transfer(0,2,spi_command(0:2))
 
         delay = $fffff
@@ -64,28 +61,10 @@ event hardware_soft_timer(handle)
         call hardware_io_port_write(0,$1,$1) #set chip select inactive to frame data
     end if     
 
-    # light reading
-    call attributes_read(light_value, 0)(rhandle, roffset, rresult, rvalue_len, rvalue_data)
-    if (rvalue_data != light_current) then
-        light_current = rvalue_data
-        call hardware_io_port_write(1,$1,$0) #enable chip select
-
-        delay = $fffff
-        while delay > $0
-            delay = delay>>1
-        end while
-
-        spi_command(0:1) = wiper1
-        spi_command(1:1) = light_current
-        call hardware_spi_transfer(0,2,spi_command(0:2))
-
-        delay = $fffff
-        while delay > $0
-            delay = delay>>1
-        end while
-       
-        call hardware_io_port_write(1,$1,$1) #set chip select inactive to frame data
-    end if
+    # thermostat
+    call attributes_read(thermo_value, 0)(rhandle, roffset, rresult, rvalue_len, rvalue_data)
+    thermo = rvalue_data<<1
+    call hardware_io_port_write(0,$E,thermo) 
 
 end
 
