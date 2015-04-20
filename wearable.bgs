@@ -23,7 +23,8 @@ event system_boot(major,minor,patch,build,ll_version,protocol,hw)
     #call hardware_io_port_config_direction(0,0)
 
     ###  start accelerometer
-    call hardware_i2c_write("\x3a", 1, 2, "\x2a\x01")
+    call hardware_i2c_write("\x3a", 1, 2, "\x2a\x03")
+    call hardware_i2c_write("\x3a", 1, 2, "\x0E\x01")
     
     ### start advertising in connectable mode
     call gap_set_mode(gap_general_discoverable,gap_undirected_connectable)
@@ -43,7 +44,7 @@ end
 event hardware_soft_timer(handle)
 
     ## ADC code
-    call hardware_adc_read(1,3,1)       # temperature reading pin P0_1
+    call hardware_adc_read(1,3,2)       # temperature reading pin P0_1
     call hardware_adc_read(2,3,2)       # hr reading pin P0_2
     c_adc = c_adc + 1                   # increment counter after buffer update
 
@@ -65,7 +66,7 @@ event hardware_adc_result(input,value)
 
         # handle temp reading
         if (input = 1) then
-            buffer_temp(0:2) = ((value >> 4) - 1024)    # shift out empty bits and subtract offset
+            buffer_temp(0:2) = value    # shift out empty bits and subtract offset
             call attributes_write(temp_reading,0,2,buffer_temp(0:2))
         end if                   	  		
     end if

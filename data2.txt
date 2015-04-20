@@ -1,0 +1,1562 @@
+
+
+2015.04.19 14:01:44.370 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:26012d
+2015.04.19 14:01:44.370 RX: 80080405001500010326012d
+
+2015.04.19 14:01:44.371 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:2a0030
+2015.04.19 14:01:44.371 RX: 8008040500150001032a0030
+
+2015.04.19 14:01:44.443 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:2c022f
+2015.04.19 14:01:44.443 RX: 8008040500150001032c022f
+
+2015.04.19 14:01:44.445 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:2c022f
+2015.04.19 14:01:44.445 RX: 8008040500150001032c022f
+
+2015.04.19 14:01:44.518 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:2c0131
+2015.04.19 14:01:44.519 RX: 8008040500150001032c0131
+
+2015.04.19 14:01:44.520 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:31ff30
+2015.04.19 14:01:44.521 RX: 80080405001500010331ff30
+
+2015.04.19 14:01:44.521 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:37fd2c
+2015.04.19 14:01:44.522 RX: 80080405001500010337fd2c
+
+2015.04.19 14:01:44.593 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:3cfc29
+2015.04.19 14:01:44.593 RX: 8008040500150001033cfc29
+
+2015.04.19 14:01:44.595 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:490519
+2015.04.19 14:01:44.595 RX: 800804050015000103490519
+
+2015.04.19 14:01:44.668 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:25f231
+2015.04.19 14:01:44.668 RX: 80080405001500010325f231
+
+2015.04.19 14:01:44.670 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:fef624
+2015.04.19 14:01:44.670 RX: 800804050015000103fef624
+
+2015.04.19 14:01:44.743 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:ecef2d
+2015.04.19 14:01:44.744 RX: 800804050015000103ecef2d
+
+2015.04.19 14:01:44.745 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:f0ff24
+2015.04.19 14:01:44.746 RX: 800804050015000103f0ff24
+
+2015.04.19 14:01:44.746 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:f80c2a
+2015.04.19 14:01:44.747 RX: 800804050015000103f80c2a
+
+2015.04.19 14:01:44.818 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:ff192d
+2015.04.19 14:01:44.818 RX: 800804050015000103ff192d
+
+2015.04.19 14:01:44.820 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:07163e
+2015.04.19 14:01:44.820 RX: 80080405001500010307163e
+
+2015.04.19 14:01:44.893 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:1a1551
+2015.04.19 14:01:44.893 RX: 8008040500150001031a1551
+
+2015.04.19 14:01:44.895 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:2b2052
+2015.04.19 14:01:44.895 RX: 8008040500150001032b2052
+
+2015.04.19 14:01:44.968 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:352658
+2015.04.19 14:01:44.969 RX: 800804050015000103352658
+
+2015.04.19 14:01:44.970 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:291547
+2015.04.19 14:01:44.971 RX: 800804050015000103291547
+
+2015.04.19 14:01:44.971 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:101f1e
+2015.04.19 14:01:44.972 RX: 800804050015000103101f1e
+
+2015.04.19 14:01:45.043 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:2213f2
+2015.04.19 14:01:45.043 RX: 8008040500150001032213f2
+
+2015.04.19 14:01:45.045 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:370af9
+2015.04.19 14:01:45.045 RX: 800804050015000103370af9
+
+2015.04.19 14:01:45.117 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:3815f3
+2015.04.19 14:01:45.118 RX: 8008040500150001033815f3
+
+2015.04.19 14:01:45.120 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:4519f0
+2015.04.19 14:01:45.120 RX: 8008040500150001034519f0
+
+2015.04.19 14:01:45.193 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:4e17f5
+2015.04.19 14:01:45.194 RX: 8008040500150001034e17f5
+
+2015.04.19 14:01:45.195 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:5517f3
+2015.04.19 14:01:45.196 RX: 8008040500150001035517f3
+
+2015.04.19 14:01:45.196 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:591e01
+2015.04.19 14:01:45.197 RX: 800804050015000103591e01
+
+2015.04.19 14:01:45.268 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:590c11
+2015.04.19 14:01:45.268 RX: 800804050015000103590c11
+
+2015.04.19 14:01:45.270 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:350118
+2015.04.19 14:01:45.270 RX: 800804050015000103350118
+
+2015.04.19 14:01:45.343 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:fe0216
+2015.04.19 14:01:45.343 RX: 800804050015000103fe0216
+
+2015.04.19 14:01:45.345 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:fcf925
+2015.04.19 14:01:45.345 RX: 800804050015000103fcf925
+
+2015.04.19 14:01:45.418 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:06ff39
+2015.04.19 14:01:45.419 RX: 80080405001500010306ff39
+
+2015.04.19 14:01:45.420 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:13042f
+2015.04.19 14:01:45.421 RX: 80080405001500010313042f
+
+2015.04.19 14:01:45.421 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:23102e
+2015.04.19 14:01:45.422 RX: 80080405001500010323102e
+
+2015.04.19 14:01:45.492 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:371142
+2015.04.19 14:01:45.493 RX: 800804050015000103371142
+
+2015.04.19 14:01:45.568 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:3b1538
+2015.04.19 14:01:45.569 RX: 8008040500150001033b1538
+
+2015.04.19 14:01:45.570 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:38182b
+2015.04.19 14:01:45.571 RX: 80080405001500010338182b
+
+2015.04.19 14:01:45.571 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:381125
+2015.04.19 14:01:45.572 RX: 800804050015000103381125
+
+2015.04.19 14:01:45.643 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:35061d
+2015.04.19 14:01:45.644 RX: 80080405001500010335061d
+
+2015.04.19 14:01:45.645 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:2c0a11
+2015.04.19 14:01:45.646 RX: 8008040500150001032c0a11
+
+2015.04.19 14:01:45.647 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:420ffb
+2015.04.19 14:01:45.647 RX: 800804050015000103420ffb
+
+2015.04.19 14:01:45.718 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:580df3
+2015.04.19 14:01:45.718 RX: 800804050015000103580df3
+
+2015.04.19 14:01:45.720 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:5501fe
+2015.04.19 14:01:45.720 RX: 8008040500150001035501fe
+
+2015.04.19 14:01:45.793 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:500612
+2015.04.19 14:01:45.793 RX: 800804050015000103500612
+
+2015.04.19 14:01:45.795 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:4bf927
+2015.04.19 14:01:45.795 RX: 8008040500150001034bf927
+
+2015.04.19 14:01:45.868 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:27f729
+2015.04.19 14:01:45.869 RX: 80080405001500010327f729
+
+2015.04.19 14:01:45.870 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:13011f
+2015.04.19 14:01:45.871 RX: 80080405001500010313011f
+
+2015.04.19 14:01:45.871 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:0b052d
+2015.04.19 14:01:45.872 RX: 8008040500150001030b052d
+
+2015.04.19 14:01:45.943 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:ff1b2f
+2015.04.19 14:01:45.943 RX: 800804050015000103ff1b2f
+
+2015.04.19 14:01:45.945 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:f61d3a
+2015.04.19 14:01:45.945 RX: 800804050015000103f61d3a
+
+2015.04.19 14:01:46.018 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:052948
+2015.04.19 14:01:46.018 RX: 800804050015000103052948
+
+2015.04.19 14:01:46.020 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:15264d
+2015.04.19 14:01:46.021 RX: 80080405001500010315264d
+
+2015.04.19 14:01:46.093 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:352746
+2015.04.19 14:01:46.094 RX: 800804050015000103352746
+
+2015.04.19 14:01:46.095 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:461a38
+2015.04.19 14:01:46.096 RX: 800804050015000103461a38
+
+2015.04.19 14:01:46.098 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:4af711
+2015.04.19 14:01:46.098 RX: 8008040500150001034af711
+
+2015.04.19 14:01:46.168 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:47db08
+2015.04.19 14:01:46.168 RX: 80080405001500010347db08
+
+2015.04.19 14:01:46.170 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:40cdfa
+2015.04.19 14:01:46.170 RX: 80080405001500010340cdfa
+
+2015.04.19 14:01:46.243 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:43d7eb
+2015.04.19 14:01:46.243 RX: 80080405001500010343d7eb
+
+2015.04.19 14:01:46.245 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:3ad8f3
+2015.04.19 14:01:46.245 RX: 8008040500150001033ad8f3
+
+2015.04.19 14:01:46.318 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:22f5ff
+2015.04.19 14:01:46.319 RX: 80080405001500010322f5ff
+
+2015.04.19 14:01:46.320 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:400710
+2015.04.19 14:01:46.321 RX: 800804050015000103400710
+
+2015.04.19 14:01:46.321 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:371f27
+2015.04.19 14:01:46.322 RX: 800804050015000103371f27
+
+2015.04.19 14:01:46.469 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:0c2947
+2015.04.19 14:01:46.469 RX: 8008040500150001030c2947
+
+2015.04.19 14:01:46.471 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:fb2958
+2015.04.19 14:01:46.471 RX: 800804050015000103fb2958
+
+2015.04.19 14:01:46.472 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:f01c56
+2015.04.19 14:01:46.472 RX: 800804050015000103f01c56
+
+2015.04.19 14:01:46.474 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:f50b4d
+2015.04.19 14:01:46.474 RX: 800804050015000103f50b4d
+
+2015.04.19 14:01:46.543 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:020b36
+2015.04.19 14:01:46.544 RX: 800804050015000103020b36
+
+2015.04.19 14:01:46.545 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:2e0425
+2015.04.19 14:01:46.546 RX: 8008040500150001032e0425
+
+2015.04.19 14:01:46.547 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:57021e
+2015.04.19 14:01:46.547 RX: 80080405001500010357021e
+
+2015.04.19 14:01:46.694 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:660af5
+2015.04.19 14:01:46.694 RX: 800804050015000103660af5
+
+2015.04.19 14:01:46.696 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:6e0dd5
+2015.04.19 14:01:46.696 RX: 8008040500150001036e0dd5
+
+2015.04.19 14:01:46.697 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:5f11da
+2015.04.19 14:01:46.698 RX: 8008040500150001035f11da
+
+2015.04.19 14:01:46.698 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:4b09f1
+2015.04.19 14:01:46.698 RX: 8008040500150001034b09f1
+
+2015.04.19 14:01:46.769 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:28f901
+2015.04.19 14:01:46.770 RX: 80080405001500010328f901
+
+2015.04.19 14:01:46.771 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:00ff04
+2015.04.19 14:01:46.772 RX: 80080405001500010300ff04
+
+2015.04.19 14:01:46.772 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:01fc25
+2015.04.19 14:01:46.773 RX: 80080405001500010301fc25
+
+2015.04.19 14:01:46.844 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:07082e
+2015.04.19 14:01:46.844 RX: 80080405001500010307082e
+
+2015.04.19 14:01:46.846 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:0a1628
+2015.04.19 14:01:46.846 RX: 8008040500150001030a1628
+
+2015.04.19 14:01:46.919 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:0e2036
+2015.04.19 14:01:46.919 RX: 8008040500150001030e2036
+
+2015.04.19 14:01:46.921 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:1a1c51
+2015.04.19 14:01:46.921 RX: 8008040500150001031a1c51
+
+2015.04.19 14:01:46.994 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:2b224e
+2015.04.19 14:01:46.995 RX: 8008040500150001032b224e
+
+2015.04.19 14:01:46.995 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:471d42
+2015.04.19 14:01:46.996 RX: 800804050015000103471d42
+
+2015.04.19 14:01:46.997 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:45182a
+2015.04.19 14:01:46.998 RX: 80080405001500010345182a
+
+2015.04.19 14:01:47.069 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:3d0c05
+2015.04.19 14:01:47.069 RX: 8008040500150001033d0c05
+
+2015.04.19 14:01:47.070 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:4b09f7
+2015.04.19 14:01:47.070 RX: 8008040500150001034b09f7
+
+2015.04.19 14:01:47.144 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:4f06eb
+2015.04.19 14:01:47.144 RX: 8008040500150001034f06eb
+
+2015.04.19 14:01:47.146 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:4404df
+2015.04.19 14:01:47.146 RX: 8008040500150001034404df
+
+2015.04.19 14:01:47.219 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:39fde9
+2015.04.19 14:01:47.220 RX: 80080405001500010339fde9
+
+2015.04.19 14:01:47.221 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:32faf2
+2015.04.19 14:01:47.222 RX: 80080405001500010332faf2
+
+2015.04.19 14:01:47.222 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:48fa0f
+2015.04.19 14:01:47.223 RX: 80080405001500010348fa0f
+
+2015.04.19 14:01:47.294 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:430221
+2015.04.19 14:01:47.294 RX: 800804050015000103430221
+
+2015.04.19 14:01:47.296 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:220537
+2015.04.19 14:01:47.296 RX: 800804050015000103220537
+
+2015.04.19 14:01:47.368 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:070636
+2015.04.19 14:01:47.369 RX: 800804050015000103070636
+
+2015.04.19 14:01:47.371 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:fc1035
+2015.04.19 14:01:47.371 RX: 800804050015000103fc1035
+
+2015.04.19 14:01:47.444 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:f10936
+2015.04.19 14:01:47.445 RX: 800804050015000103f10936
+
+2015.04.19 14:01:47.446 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:fb0b3b
+2015.04.19 14:01:47.447 RX: 800804050015000103fb0b3b
+
+2015.04.19 14:01:47.447 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:080c32
+2015.04.19 14:01:47.448 RX: 800804050015000103080c32
+
+2015.04.19 14:01:47.518 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:1c0535
+2015.04.19 14:01:47.519 RX: 8008040500150001031c0535
+
+2015.04.19 14:01:47.521 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:290c31
+2015.04.19 14:01:47.521 RX: 800804050015000103290c31
+
+2015.04.19 14:01:47.594 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:320c18
+2015.04.19 14:01:47.594 RX: 800804050015000103320c18
+
+2015.04.19 14:01:47.596 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:4411fa
+2015.04.19 14:01:47.596 RX: 8008040500150001034411fa
+
+2015.04.19 14:01:47.670 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:631ef0
+2015.04.19 14:01:47.670 RX: 800804050015000103631ef0
+
+2015.04.19 14:01:47.672 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:762ae8
+2015.04.19 14:01:47.672 RX: 800804050015000103762ae8
+
+2015.04.19 14:01:47.673 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:7114f4
+2015.04.19 14:01:47.673 RX: 8008040500150001037114f4
+
+2015.04.19 14:01:47.743 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:510804
+2015.04.19 14:01:47.744 RX: 800804050015000103510804
+
+2015.04.19 14:01:47.746 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:33fa11
+2015.04.19 14:01:47.746 RX: 80080405001500010333fa11
+
+2015.04.19 14:01:47.819 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:1ff408
+2015.04.19 14:01:47.819 RX: 8008040500150001031ff408
+
+2015.04.19 14:01:47.821 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:0afd07
+2015.04.19 14:01:47.821 RX: 8008040500150001030afd07
+
+2015.04.19 14:01:47.894 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:f5f7fc
+2015.04.19 14:01:47.894 RX: 800804050015000103f5f7fc
+
+2015.04.19 14:01:47.896 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:ff0336
+2015.04.19 14:01:47.897 RX: 800804050015000103ff0336
+
+2015.04.19 14:01:47.899 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:0c0b3c
+2015.04.19 14:01:47.899 RX: 8008040500150001030c0b3c
+
+2015.04.19 14:01:47.968 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:110b34
+2015.04.19 14:01:47.969 RX: 800804050015000103110b34
+
+2015.04.19 14:01:47.971 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:1c1330
+2015.04.19 14:01:47.971 RX: 8008040500150001031c1330
+
+2015.04.19 14:01:48.043 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:351621
+2015.04.19 14:01:48.044 RX: 800804050015000103351621
+
+2015.04.19 14:01:48.046 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:431fff
+2015.04.19 14:01:48.046 RX: 800804050015000103431fff
+
+2015.04.19 14:01:48.119 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:451ef9
+2015.04.19 14:01:48.120 RX: 800804050015000103451ef9
+
+2015.04.19 14:01:48.121 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:5224fc
+2015.04.19 14:01:48.122 RX: 8008040500150001035224fc
+
+2015.04.19 14:01:48.122 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:5e21ea
+2015.04.19 14:01:48.123 RX: 8008040500150001035e21ea
+
+2015.04.19 14:01:48.193 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:5d16f4
+2015.04.19 14:01:48.194 RX: 8008040500150001035d16f4
+
+2015.04.19 14:01:48.196 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:4d0502
+2015.04.19 14:01:48.196 RX: 8008040500150001034d0502
+
+2015.04.19 14:01:48.345 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:39f30a
+2015.04.19 14:01:48.346 RX: 80080405001500010339f30a
+
+2015.04.19 14:01:48.348 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:30f112
+2015.04.19 14:01:48.348 RX: 80080405001500010330f112
+
+2015.04.19 14:01:48.349 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:21ef2d
+2015.04.19 14:01:48.349 RX: 80080405001500010321ef2d
+
+2015.04.19 14:01:48.349 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:13f82e
+2015.04.19 14:01:48.350 RX: 80080405001500010313f82e
+
+2015.04.19 14:01:48.351 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:13fd3a
+2015.04.19 14:01:48.352 RX: 80080405001500010313fd3a
+
+2015.04.19 14:01:48.418 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:0f0c3e
+2015.04.19 14:01:48.419 RX: 8008040500150001030f0c3e
+
+2015.04.19 14:01:48.421 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:0f0d3f
+2015.04.19 14:01:48.421 RX: 8008040500150001030f0d3f
+
+2015.04.19 14:01:48.493 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:0c0d3e
+2015.04.19 14:01:48.494 RX: 8008040500150001030c0d3e
+
+2015.04.19 14:01:48.496 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:181235
+2015.04.19 14:01:48.497 RX: 800804050015000103181235
+
+2015.04.19 14:01:48.569 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:311824
+2015.04.19 14:01:48.569 RX: 800804050015000103311824
+
+2015.04.19 14:01:48.571 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:322001
+2015.04.19 14:01:48.572 RX: 800804050015000103322001
+
+2015.04.19 14:01:48.572 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:361cf5
+2015.04.19 14:01:48.573 RX: 800804050015000103361cf5
+
+2015.04.19 14:01:48.644 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:3b23f0
+2015.04.19 14:01:48.644 RX: 8008040500150001033b23f0
+
+2015.04.19 14:01:48.646 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:401dec
+2015.04.19 14:01:48.646 RX: 800804050015000103401dec
+
+2015.04.19 14:01:48.718 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:4419ea
+2015.04.19 14:01:48.719 RX: 8008040500150001034419ea
+
+2015.04.19 14:01:48.721 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:4814ed
+2015.04.19 14:01:48.721 RX: 8008040500150001034814ed
+
+2015.04.19 14:01:48.794 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:4f0af0
+2015.04.19 14:01:48.795 RX: 8008040500150001034f0af0
+
+2015.04.19 14:01:48.796 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:620d06
+2015.04.19 14:01:48.797 RX: 800804050015000103620d06
+
+2015.04.19 14:01:48.797 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:5ffb17
+2015.04.19 14:01:48.798 RX: 8008040500150001035ffb17
+
+2015.04.19 14:01:48.868 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:2bff23
+2015.04.19 14:01:48.869 RX: 8008040500150001032bff23
+
+2015.04.19 14:01:48.871 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:06fb35
+2015.04.19 14:01:48.871 RX: 80080405001500010306fb35
+
+2015.04.19 14:01:48.943 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:0ff637
+2015.04.19 14:01:48.944 RX: 8008040500150001030ff637
+
+2015.04.19 14:01:48.946 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:fe0d28
+2015.04.19 14:01:48.946 RX: 800804050015000103fe0d28
+
+2015.04.19 14:01:49.019 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:fd1521
+2015.04.19 14:01:49.020 RX: 800804050015000103fd1521
+
+2015.04.19 14:01:49.021 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:05142f
+2015.04.19 14:01:49.022 RX: 80080405001500010305142f
+
+2015.04.19 14:01:49.022 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:12124f
+2015.04.19 14:01:49.023 RX: 80080405001500010312124f
+
+2015.04.19 14:01:49.093 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:181743
+2015.04.19 14:01:49.094 RX: 800804050015000103181743
+
+2015.04.19 14:01:49.096 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:321230
+2015.04.19 14:01:49.096 RX: 800804050015000103321230
+
+2015.04.19 14:01:49.168 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:4b1815
+2015.04.19 14:01:49.169 RX: 8008040500150001034b1815
+
+2015.04.19 14:01:49.171 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:411803
+2015.04.19 14:01:49.171 RX: 800804050015000103411803
+
+2015.04.19 14:01:49.245 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:531eed
+2015.04.19 14:01:49.245 RX: 800804050015000103531eed
+
+2015.04.19 14:01:49.246 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:5817df
+2015.04.19 14:01:49.246 RX: 8008040500150001035817df
+
+2015.04.19 14:01:49.248 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:5415de
+2015.04.19 14:01:49.248 RX: 8008040500150001035415de
+
+2015.04.19 14:01:49.318 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:4d0ce2
+2015.04.19 14:01:49.319 RX: 8008040500150001034d0ce2
+
+2015.04.19 14:01:49.321 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:4005f2
+2015.04.19 14:01:49.321 RX: 8008040500150001034005f2
+
+2015.04.19 14:01:49.393 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:49f911
+2015.04.19 14:01:49.394 RX: 80080405001500010349f911
+
+2015.04.19 14:01:49.396 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:3bfd1d
+2015.04.19 14:01:49.396 RX: 8008040500150001033bfd1d
+
+2015.04.19 14:01:49.469 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:17fe23
+2015.04.19 14:01:49.470 RX: 80080405001500010317fe23
+
+2015.04.19 14:01:49.471 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:0bfa2d
+2015.04.19 14:01:49.472 RX: 8008040500150001030bfa2d
+
+2015.04.19 14:01:49.472 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:ff0427
+2015.04.19 14:01:49.473 RX: 800804050015000103ff0427
+
+2015.04.19 14:01:49.543 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:fe0928
+2015.04.19 14:01:49.544 RX: 800804050015000103fe0928
+
+2015.04.19 14:01:49.546 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:fd0c2c
+2015.04.19 14:01:49.546 RX: 800804050015000103fd0c2c
+
+2015.04.19 14:01:49.618 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:f8062e
+2015.04.19 14:01:49.619 RX: 800804050015000103f8062e
+
+2015.04.19 14:01:49.621 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:03033a
+2015.04.19 14:01:49.622 RX: 80080405001500010303033a
+
+2015.04.19 14:01:49.695 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:1c0d3c
+2015.04.19 14:01:49.695 RX: 8008040500150001031c0d3c
+
+2015.04.19 14:01:49.697 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:331124
+2015.04.19 14:01:49.697 RX: 800804050015000103331124
+
+2015.04.19 14:01:49.698 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:4a1dfe
+2015.04.19 14:01:49.699 RX: 8008040500150001034a1dfe
+
+2015.04.19 14:01:49.768 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:4d20f5
+2015.04.19 14:01:49.769 RX: 8008040500150001034d20f5
+
+2015.04.19 14:01:49.771 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:471fe4
+2015.04.19 14:01:49.771 RX: 800804050015000103471fe4
+
+2015.04.19 14:01:49.843 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:531de3
+2015.04.19 14:01:49.844 RX: 800804050015000103531de3
+
+2015.04.19 14:01:49.846 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:551ade
+2015.04.19 14:01:49.846 RX: 800804050015000103551ade
+
+2015.04.19 14:01:49.919 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:511ae7
+2015.04.19 14:01:49.919 RX: 800804050015000103511ae7
+
+2015.04.19 14:01:49.921 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:4b0df3
+2015.04.19 14:01:49.922 RX: 8008040500150001034b0df3
+
+2015.04.19 14:01:49.922 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:490b07
+2015.04.19 14:01:49.923 RX: 800804050015000103490b07
+
+2015.04.19 14:01:49.993 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:3b001c
+2015.04.19 14:01:49.994 RX: 8008040500150001033b001c
+
+2015.04.19 14:01:49.996 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:20f430
+2015.04.19 14:01:49.996 RX: 80080405001500010320f430
+
+2015.04.19 14:01:50.068 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:fcfb33
+2015.04.19 14:01:50.069 RX: 800804050015000103fcfb33
+
+2015.04.19 14:01:50.071 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:f5f73a
+2015.04.19 14:01:50.071 RX: 800804050015000103f5f73a
+
+2015.04.19 14:01:50.144 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:f40232
+2015.04.19 14:01:50.145 RX: 800804050015000103f40232
+
+2015.04.19 14:01:50.146 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:f8062e
+2015.04.19 14:01:50.147 RX: 800804050015000103f8062e
+
+2015.04.19 14:01:50.149 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:070339
+2015.04.19 14:01:50.149 RX: 800804050015000103070339
+
+2015.04.19 14:01:50.218 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:150938
+2015.04.19 14:01:50.219 RX: 800804050015000103150938
+
+2015.04.19 14:01:50.221 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:150a30
+2015.04.19 14:01:50.221 RX: 800804050015000103150a30
+
+2015.04.19 14:01:50.293 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:2a0d13
+2015.04.19 14:01:50.294 RX: 8008040500150001032a0d13
+
+2015.04.19 14:01:50.296 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:351306
+2015.04.19 14:01:50.296 RX: 800804050015000103351306
+
+2015.04.19 14:01:50.369 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:391bf6
+2015.04.19 14:01:50.369 RX: 800804050015000103391bf6
+
+2015.04.19 14:01:50.371 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:441cf7
+2015.04.19 14:01:50.371 RX: 800804050015000103441cf7
+
+2015.04.19 14:01:50.372 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:531ce4
+2015.04.19 14:01:50.372 RX: 800804050015000103531ce4
+
+2015.04.19 14:01:50.443 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:5b18f3
+2015.04.19 14:01:50.444 RX: 8008040500150001035b18f3
+
+2015.04.19 14:01:50.446 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:5908fc
+2015.04.19 14:01:50.446 RX: 8008040500150001035908fc
+
+2015.04.19 14:01:50.519 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:6b0c19
+2015.04.19 14:01:50.519 RX: 8008040500150001036b0c19
+
+2015.04.19 14:01:50.594 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:63012d
+2015.04.19 14:01:50.595 RX: 80080405001500010363012d
+
+2015.04.19 14:01:50.597 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:3bf631
+2015.04.19 14:01:50.597 RX: 8008040500150001033bf631
+
+2015.04.19 14:01:50.598 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:26fd2b
+2015.04.19 14:01:50.598 RX: 80080405001500010326fd2b
+
+2015.04.19 14:01:50.599 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:160223
+2015.04.19 14:01:50.599 RX: 800804050015000103160223
+
+2015.04.19 14:01:50.668 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:000411
+2015.04.19 14:01:50.669 RX: 800804050015000103000411
+
+2015.04.19 14:01:50.671 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:ee0921
+2015.04.19 14:01:50.671 RX: 800804050015000103ee0921
+
+2015.04.19 14:01:50.743 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:e5021e
+2015.04.19 14:01:50.744 RX: 800804050015000103e5021e
+
+2015.04.19 14:01:50.746 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:ec031d
+2015.04.19 14:01:50.746 RX: 800804050015000103ec031d
+
+2015.04.19 14:01:50.819 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:fc0325
+2015.04.19 14:01:50.820 RX: 800804050015000103fc0325
+
+2015.04.19 14:01:50.821 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:16062d
+2015.04.19 14:01:50.822 RX: 80080405001500010316062d
+
+2015.04.19 14:01:50.822 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:3b0e31
+2015.04.19 14:01:50.823 RX: 8008040500150001033b0e31
+
+2015.04.19 14:01:50.969 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:602f1e
+2015.04.19 14:01:50.970 RX: 800804050015000103602f1e
+
+2015.04.19 14:01:50.972 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:7f2b08
+2015.04.19 14:01:50.972 RX: 8008040500150001037f2b08
+
+2015.04.19 14:01:50.973 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:7f371a
+2015.04.19 14:01:50.973 RX: 8008040500150001037f371a
+
+2015.04.19 14:01:50.975 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:7f202f
+2015.04.19 14:01:50.975 RX: 8008040500150001037f202f
+
+2015.04.19 14:01:51.043 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:35ef2f
+2015.04.19 14:01:51.044 RX: 80080405001500010335ef2f
+
+2015.04.19 14:01:51.119 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:1bf821
+2015.04.19 14:01:51.120 RX: 8008040500150001031bf821
+
+2015.04.19 14:01:51.122 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:05ff0e
+2015.04.19 14:01:51.122 RX: 80080405001500010305ff0e
+
+2015.04.19 14:01:51.123 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:f70013
+2015.04.19 14:01:51.123 RX: 800804050015000103f70013
+
+2015.04.19 14:01:51.125 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:effb0e
+2015.04.19 14:01:51.125 RX: 800804050015000103effb0e
+
+2015.04.19 14:01:51.193 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:ef1a0b
+2015.04.19 14:01:51.194 RX: 800804050015000103ef1a0b
+
+2015.04.19 14:01:51.196 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:0a26fd
+2015.04.19 14:01:51.196 RX: 8008040500150001030a26fd
+
+2015.04.19 14:01:51.269 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:0e0c00
+2015.04.19 14:01:51.269 RX: 8008040500150001030e0c00
+
+2015.04.19 14:01:51.271 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:1e13ff
+2015.04.19 14:01:51.272 RX: 8008040500150001031e13ff
+
+2015.04.19 14:01:51.272 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:491507
+2015.04.19 14:01:51.273 RX: 800804050015000103491507
+
+2015.04.19 14:01:51.343 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:642d07
+2015.04.19 14:01:51.344 RX: 800804050015000103642d07
+
+2015.04.19 14:01:51.346 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:7f4edd
+2015.04.19 14:01:51.346 RX: 8008040500150001037f4edd
+
+2015.04.19 14:01:51.418 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:7f34fe
+2015.04.19 14:01:51.419 RX: 8008040500150001037f34fe
+
+2015.04.19 14:01:51.421 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:7f160e
+2015.04.19 14:01:51.421 RX: 8008040500150001037f160e
+
+2015.04.19 14:01:51.495 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:60f41d
+2015.04.19 14:01:51.495 RX: 80080405001500010360f41d
+
+2015.04.19 14:01:51.496 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:29d912
+2015.04.19 14:01:51.496 RX: 80080405001500010329d912
+
+2015.04.19 14:01:51.498 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:28e4fb
+2015.04.19 14:01:51.499 RX: 80080405001500010328e4fb
+
+2015.04.19 14:01:51.568 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:1dee0b
+2015.04.19 14:01:51.569 RX: 8008040500150001031dee0b
+
+2015.04.19 14:01:51.571 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:16f50a
+2015.04.19 14:01:51.571 RX: 80080405001500010316f50a
+
+2015.04.19 14:01:51.643 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:100406
+2015.04.19 14:01:51.644 RX: 800804050015000103100406
+
+2015.04.19 14:01:51.645 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:ff0e00
+2015.04.19 14:01:51.646 RX: 800804050015000103ff0e00
+
+2015.04.19 14:01:51.719 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:f90930
+2015.04.19 14:01:51.720 RX: 800804050015000103f90930
+
+2015.04.19 14:01:51.721 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:010449
+2015.04.19 14:01:51.722 RX: 800804050015000103010449
+
+2015.04.19 14:01:51.722 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:3b3346
+2015.04.19 14:01:51.723 RX: 8008040500150001033b3346
+
+2015.04.19 14:01:51.793 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:7f3728
+2015.04.19 14:01:51.794 RX: 8008040500150001037f3728
+
+2015.04.19 14:01:51.796 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:7f3b01
+2015.04.19 14:01:51.796 RX: 8008040500150001037f3b01
+
+2015.04.19 14:01:51.869 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:7f3401
+2015.04.19 14:01:51.869 RX: 8008040500150001037f3401
+
+2015.04.19 14:01:51.871 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:711cea
+2015.04.19 14:01:51.872 RX: 800804050015000103711cea
+
+2015.04.19 14:01:51.944 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:5d15e4
+2015.04.19 14:01:51.945 RX: 8008040500150001035d15e4
+
+2015.04.19 14:01:51.946 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:5b12eb
+2015.04.19 14:01:51.947 RX: 8008040500150001035b12eb
+
+2015.04.19 14:01:51.948 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:4707eb
+2015.04.19 14:01:51.948 RX: 8008040500150001034707eb
+
+2015.04.19 14:01:52.018 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:420ce5
+2015.04.19 14:01:52.019 RX: 800804050015000103420ce5
+
+2015.04.19 14:01:52.021 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:1124e0
+2015.04.19 14:01:52.021 RX: 8008040500150001031124e0
+
+2015.04.19 14:01:52.093 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:fc1aeb
+2015.04.19 14:01:52.094 RX: 800804050015000103fc1aeb
+
+2015.04.19 14:01:52.096 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:050bfc
+2015.04.19 14:01:52.096 RX: 800804050015000103050bfc
+
+2015.04.19 14:01:52.169 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:f5051b
+2015.04.19 14:01:52.169 RX: 800804050015000103f5051b
+
+2015.04.19 14:01:52.171 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:08fc73
+2015.04.19 14:01:52.172 RX: 80080405001500010308fc73
+
+2015.04.19 14:01:52.172 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:331d76
+2015.04.19 14:01:52.173 RX: 800804050015000103331d76
+
+2015.04.19 14:01:52.243 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:7f1e25
+2015.04.19 14:01:52.244 RX: 8008040500150001037f1e25
+
+2015.04.19 14:01:52.246 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:7825fc
+2015.04.19 14:01:52.246 RX: 8008040500150001037825fc
+
+2015.04.19 14:01:52.318 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:6e17f2
+2015.04.19 14:01:52.319 RX: 8008040500150001036e17f2
+
+2015.04.19 14:01:52.321 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:5910eb
+2015.04.19 14:01:52.321 RX: 8008040500150001035910eb
+
+2015.04.19 14:01:52.394 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:400df0
+2015.04.19 14:01:52.394 RX: 800804050015000103400df0
+
+2015.04.19 14:01:52.396 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:3612ec
+2015.04.19 14:01:52.397 RX: 8008040500150001033612ec
+
+2015.04.19 14:01:52.397 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:26ffe3
+2015.04.19 14:01:52.398 RX: 80080405001500010326ffe3
+
+2015.04.19 14:01:52.468 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:2afaee
+2015.04.19 14:01:52.469 RX: 8008040500150001032afaee
+
+2015.04.19 14:01:52.471 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:25f8ee
+2015.04.19 14:01:52.471 RX: 80080405001500010325f8ee
+
+2015.04.19 14:01:52.543 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:26f5f5
+2015.04.19 14:01:52.544 RX: 80080405001500010326f5f5
+
+2015.04.19 14:01:52.545 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:0eeb12
+2015.04.19 14:01:52.546 RX: 8008040500150001030eeb12
+
+2015.04.19 14:01:52.619 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:fdfb5f
+2015.04.19 14:01:52.619 RX: 800804050015000103fdfb5f
+
+2015.04.19 14:01:52.621 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:e9136d
+2015.04.19 14:01:52.622 RX: 800804050015000103e9136d
+
+2015.04.19 14:01:52.622 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:e01972
+2015.04.19 14:01:52.623 RX: 800804050015000103e01972
+
+2015.04.19 14:01:52.693 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:f0135b
+2015.04.19 14:01:52.694 RX: 800804050015000103f0135b
+
+2015.04.19 14:01:52.696 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:090f40
+2015.04.19 14:01:52.696 RX: 800804050015000103090f40
+
+2015.04.19 14:01:52.768 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:271c3b
+2015.04.19 14:01:52.769 RX: 800804050015000103271c3b
+
+2015.04.19 14:01:52.771 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:321413
+2015.04.19 14:01:52.771 RX: 800804050015000103321413
+
+2015.04.19 14:01:52.844 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:2e11f9
+2015.04.19 14:01:52.844 RX: 8008040500150001032e11f9
+
+2015.04.19 14:01:52.846 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:3b0ded
+2015.04.19 14:01:52.847 RX: 8008040500150001033b0ded
+
+2015.04.19 14:01:52.848 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:310ff6
+2015.04.19 14:01:52.848 RX: 800804050015000103310ff6
+
+2015.04.19 14:01:52.918 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:381de5
+2015.04.19 14:01:52.919 RX: 800804050015000103381de5
+
+2015.04.19 14:01:52.921 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:3e15dc
+2015.04.19 14:01:52.921 RX: 8008040500150001033e15dc
+
+2015.04.19 14:01:52.993 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:23ccdd
+2015.04.19 14:01:52.994 RX: 80080405001500010323ccdd
+
+2015.04.19 14:01:52.995 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:3dccd4
+2015.04.19 14:01:52.996 RX: 8008040500150001033dccd4
+
+2015.04.19 14:01:53.145 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:42c1d9
+2015.04.19 14:01:53.146 RX: 80080405001500010342c1d9
+
+2015.04.19 14:01:53.147 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:51e812
+2015.04.19 14:01:53.148 RX: 80080405001500010351e812
+
+2015.04.19 14:01:53.148 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:2fe540
+2015.04.19 14:01:53.149 RX: 8008040500150001032fe540
+
+2015.04.19 14:01:53.149 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:1a1c3b
+2015.04.19 14:01:53.150 RX: 8008040500150001031a1c3b
+
+2015.04.19 14:01:53.151 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:142b36
+2015.04.19 14:01:53.152 RX: 800804050015000103142b36
+
+2015.04.19 14:01:53.218 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:17553c
+2015.04.19 14:01:53.219 RX: 80080405001500010317553c
+
+2015.04.19 14:01:53.221 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:3f475f
+2015.04.19 14:01:53.221 RX: 8008040500150001033f475f
+
+2015.04.19 14:01:53.294 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:372129
+2015.04.19 14:01:53.294 RX: 800804050015000103372129
+
+2015.04.19 14:01:53.296 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:1d1b1b
+2015.04.19 14:01:53.297 RX: 8008040500150001031d1b1b
+
+2015.04.19 14:01:53.299 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:1f0222
+2015.04.19 14:01:53.299 RX: 8008040500150001031f0222
+
+2015.04.19 14:01:53.368 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:2cd728
+2015.04.19 14:01:53.369 RX: 8008040500150001032cd728
+
+2015.04.19 14:01:53.371 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:4ee419
+2015.04.19 14:01:53.371 RX: 8008040500150001034ee419
+
+2015.04.19 14:01:53.443 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:7fd810
+2015.04.19 14:01:53.444 RX: 8008040500150001037fd810
+
+2015.04.19 14:01:53.446 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:7adffc
+2015.04.19 14:01:53.446 RX: 8008040500150001037adffc
+
+2015.04.19 14:01:53.519 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:7f08e9
+2015.04.19 14:01:53.519 RX: 8008040500150001037f08e9
+
+2015.04.19 14:01:53.521 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:61fde4
+2015.04.19 14:01:53.522 RX: 80080405001500010361fde4
+
+2015.04.19 14:01:53.523 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:23fcea
+2015.04.19 14:01:53.523 RX: 80080405001500010323fcea
+
+2015.04.19 14:01:53.669 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:0cf7f7
+2015.04.19 14:01:53.670 RX: 8008040500150001030cf7f7
+
+2015.04.19 14:01:53.672 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:241d0c
+2015.04.19 14:01:53.672 RX: 800804050015000103241d0c
+
+2015.04.19 14:01:53.673 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:202b08
+2015.04.19 14:01:53.674 RX: 800804050015000103202b08
+
+2015.04.19 14:01:53.674 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:2c3f15
+2015.04.19 14:01:53.674 RX: 8008040500150001032c3f15
+
+2015.04.19 14:01:53.744 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:2e4c29
+2015.04.19 14:01:53.744 RX: 8008040500150001032e4c29
+
+2015.04.19 14:01:53.746 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:1e3224
+2015.04.19 14:01:53.747 RX: 8008040500150001031e3224
+
+2015.04.19 14:01:53.749 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:162445
+2015.04.19 14:01:53.749 RX: 800804050015000103162445
+
+2015.04.19 14:01:53.894 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:46fb49
+2015.04.19 14:01:53.895 RX: 80080405001500010346fb49
+
+2015.04.19 14:01:53.897 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:2cf43c
+2015.04.19 14:01:53.897 RX: 8008040500150001032cf43c
+
+2015.04.19 14:01:53.898 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:39f061
+2015.04.19 14:01:53.899 RX: 80080405001500010339f061
+
+2015.04.19 14:01:53.899 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:36ce7f
+2015.04.19 14:01:53.899 RX: 80080405001500010336ce7f
+
+2015.04.19 14:01:53.969 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:0dc45d
+2015.04.19 14:01:53.969 RX: 8008040500150001030dc45d
+
+2015.04.19 14:01:53.972 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:1ec658
+2015.04.19 14:01:53.972 RX: 8008040500150001031ec658
+
+2015.04.19 14:01:53.973 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:0dd31f
+2015.04.19 14:01:53.974 RX: 8008040500150001030dd31f
+
+2015.04.19 14:01:54.043 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:18e616
+2015.04.19 14:01:54.044 RX: 80080405001500010318e616
+
+2015.04.19 14:01:54.045 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:20ef1f
+2015.04.19 14:01:54.046 RX: 80080405001500010320ef1f
+
+2015.04.19 14:01:54.118 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:1d0b2b
+2015.04.19 14:01:54.119 RX: 8008040500150001031d0b2b
+
+2015.04.19 14:01:54.120 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:1b222b
+2015.04.19 14:01:54.121 RX: 8008040500150001031b222b
+
+2015.04.19 14:01:54.194 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:23322b
+2015.04.19 14:01:54.194 RX: 80080405001500010323322b
+
+2015.04.19 14:01:54.196 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:33241f
+2015.04.19 14:01:54.197 RX: 80080405001500010333241f
+
+2015.04.19 14:01:54.197 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:55351b
+2015.04.19 14:01:54.198 RX: 80080405001500010355351b
+
+2015.04.19 14:01:54.268 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:622f0c
+2015.04.19 14:01:54.269 RX: 800804050015000103622f0c
+
+2015.04.19 14:01:54.270 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:522c01
+2015.04.19 14:01:54.271 RX: 800804050015000103522c01
+
+2015.04.19 14:01:54.343 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:471bea
+2015.04.19 14:01:54.344 RX: 800804050015000103471bea
+
+2015.04.19 14:01:54.346 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:2719e5
+2015.04.19 14:01:54.346 RX: 8008040500150001032719e5
+
+2015.04.19 14:01:54.419 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:211dde
+2015.04.19 14:01:54.419 RX: 800804050015000103211dde
+
+2015.04.19 14:01:54.421 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:320edb
+2015.04.19 14:01:54.422 RX: 800804050015000103320edb
+
+2015.04.19 14:01:54.422 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:2d18de
+2015.04.19 14:01:54.423 RX: 8008040500150001032d18de
+
+2015.04.19 14:01:54.493 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:3c13e7
+2015.04.19 14:01:54.494 RX: 8008040500150001033c13e7
+
+2015.04.19 14:01:54.496 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:54fde7
+2015.04.19 14:01:54.496 RX: 80080405001500010354fde7
+
+2015.04.19 14:01:54.568 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:49fff5
+2015.04.19 14:01:54.569 RX: 80080405001500010349fff5
+
+2015.04.19 14:01:54.571 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:4ef40b
+2015.04.19 14:01:54.571 RX: 8008040500150001034ef40b
+
+2015.04.19 14:01:54.644 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:57d22b
+2015.04.19 14:01:54.644 RX: 80080405001500010357d22b
+
+2015.04.19 14:01:54.646 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:3dea1e
+2015.04.19 14:01:54.647 RX: 8008040500150001033dea1e
+
+2015.04.19 14:01:54.647 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:1ee725
+2015.04.19 14:01:54.648 RX: 8008040500150001031ee725
+
+2015.04.19 14:01:54.718 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:1cf72b
+2015.04.19 14:01:54.719 RX: 8008040500150001031cf72b
+
+2015.04.19 14:01:54.721 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:1a093c
+2015.04.19 14:01:54.722 RX: 8008040500150001031a093c
+
+2015.04.19 14:01:54.793 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:0e1844
+2015.04.19 14:01:54.794 RX: 8008040500150001030e1844
+
+2015.04.19 14:01:54.796 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:112c35
+2015.04.19 14:01:54.796 RX: 800804050015000103112c35
+
+2015.04.19 14:01:54.869 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:1f3c22
+2015.04.19 14:01:54.869 RX: 8008040500150001031f3c22
+
+2015.04.19 14:01:54.871 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:303631
+2015.04.19 14:01:54.871 RX: 800804050015000103303631
+
+2015.04.19 14:01:54.872 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:303b1d
+2015.04.19 14:01:54.873 RX: 800804050015000103303b1d
+
+2015.04.19 14:01:54.943 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:493212
+2015.04.19 14:01:54.944 RX: 800804050015000103493212
+
+2015.04.19 14:01:54.946 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:4e1204
+2015.04.19 14:01:54.946 RX: 8008040500150001034e1204
+
+2015.04.19 14:01:55.018 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:40f3f9
+2015.04.19 14:01:55.019 RX: 80080405001500010340f3f9
+
+2015.04.19 14:01:55.020 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:47e7fe
+2015.04.19 14:01:55.021 RX: 80080405001500010347e7fe
+
+2015.04.19 14:01:55.094 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:40e402
+2015.04.19 14:01:55.094 RX: 80080405001500010340e402
+
+2015.04.19 14:01:55.096 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:38d60d
+2015.04.19 14:01:55.097 RX: 80080405001500010338d60d
+
+2015.04.19 14:01:55.099 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:42e710
+2015.04.19 14:01:55.100 RX: 80080405001500010342e710
+
+2015.04.19 14:01:55.168 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:36d927
+2015.04.19 14:01:55.169 RX: 80080405001500010336d927
+
+2015.04.19 14:01:55.170 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:3eda30
+2015.04.19 14:01:55.171 RX: 8008040500150001033eda30
+
+2015.04.19 14:01:55.243 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:31e528
+2015.04.19 14:01:55.244 RX: 80080405001500010331e528
+
+2015.04.19 14:01:55.245 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:26fa32
+2015.04.19 14:01:55.246 RX: 80080405001500010326fa32
+
+2015.04.19 14:01:55.319 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:1af64f
+2015.04.19 14:01:55.319 RX: 8008040500150001031af64f
+
+2015.04.19 14:01:55.321 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:130349
+2015.04.19 14:01:55.321 RX: 800804050015000103130349
+
+2015.04.19 14:01:55.322 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:242155
+2015.04.19 14:01:55.323 RX: 800804050015000103242155
+
+2015.04.19 14:01:55.393 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:20324c
+2015.04.19 14:01:55.394 RX: 80080405001500010320324c
+
+2015.04.19 14:01:55.395 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:23373b
+2015.04.19 14:01:55.396 RX: 80080405001500010323373b
+
+2015.04.19 14:01:55.468 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:283b15
+2015.04.19 14:01:55.469 RX: 800804050015000103283b15
+
+2015.04.19 14:01:55.471 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:342912
+2015.04.19 14:01:55.471 RX: 800804050015000103342912
+
+2015.04.19 14:01:55.544 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:321114
+2015.04.19 14:01:55.544 RX: 800804050015000103321114
+
+2015.04.19 14:01:55.546 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:380efa
+2015.04.19 14:01:55.547 RX: 800804050015000103380efa
+
+2015.04.19 14:01:55.548 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:3a0aeb
+2015.04.19 14:01:55.548 RX: 8008040500150001033a0aeb
+
+2015.04.19 14:01:55.618 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:4c13e6
+2015.04.19 14:01:55.619 RX: 8008040500150001034c13e6
+
+2015.04.19 14:01:55.620 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:51f6db
+2015.04.19 14:01:55.621 RX: 80080405001500010351f6db
+
+2015.04.19 14:01:55.693 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:5becd2
+2015.04.19 14:01:55.694 RX: 8008040500150001035becd2
+
+2015.04.19 14:01:55.696 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:70ecdf
+2015.04.19 14:01:55.696 RX: 80080405001500010370ecdf
+
+2015.04.19 14:01:55.769 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:5ce2ef
+2015.04.19 14:01:55.769 RX: 8008040500150001035ce2ef
+
+2015.04.19 14:01:55.771 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:43f205
+2015.04.19 14:01:55.772 RX: 80080405001500010343f205
+
+2015.04.19 14:01:55.772 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:37f314
+2015.04.19 14:01:55.773 RX: 80080405001500010337f314
+
+2015.04.19 14:01:55.843 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:36072a
+2015.04.19 14:01:55.844 RX: 80080405001500010336072a
+
+2015.04.19 14:01:55.845 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:3a0a35
+2015.04.19 14:01:55.846 RX: 8008040500150001033a0a35
+
+2015.04.19 14:01:55.918 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:321c3d
+2015.04.19 14:01:55.919 RX: 800804050015000103321c3d
+
+2015.04.19 14:01:55.920 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:2e284d
+2015.04.19 14:01:55.921 RX: 8008040500150001032e284d
+
+2015.04.19 14:01:55.993 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:23294b
+2015.04.19 14:01:55.994 RX: 80080405001500010323294b
+
+2015.04.19 14:01:56.069 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:2b3a40
+2015.04.19 14:01:56.070 RX: 8008040500150001032b3a40
+
+2015.04.19 14:01:56.072 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:252d3c
+2015.04.19 14:01:56.072 RX: 800804050015000103252d3c
+
+2015.04.19 14:01:56.073 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:2f231c
+2015.04.19 14:01:56.074 RX: 8008040500150001032f231c
+
+2015.04.19 14:01:56.074 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:3a1609
+2015.04.19 14:01:56.074 RX: 8008040500150001033a1609
+
+2015.04.19 14:01:56.143 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:370ef4
+2015.04.19 14:01:56.144 RX: 800804050015000103370ef4
+
+2015.04.19 14:01:56.146 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:44ffeb
+2015.04.19 14:01:56.146 RX: 80080405001500010344ffeb
+
+2015.04.19 14:01:56.219 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:49f6e9
+2015.04.19 14:01:56.219 RX: 80080405001500010349f6e9
+
+2015.04.19 14:01:56.222 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:49ebe0
+2015.04.19 14:01:56.223 RX: 80080405001500010349ebe0
+
+2015.04.19 14:01:56.223 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:4bd5fa
+2015.04.19 14:01:56.224 RX: 8008040500150001034bd5fa
+
+2015.04.19 14:01:56.293 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:58c413
+2015.04.19 14:01:56.294 RX: 80080405001500010358c413
+
+2015.04.19 14:01:56.296 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:4cc91e
+2015.04.19 14:01:56.296 RX: 8008040500150001034cc91e
+
+2015.04.19 14:01:56.368 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:38e42c
+2015.04.19 14:01:56.369 RX: 80080405001500010338e42c
+
+2015.04.19 14:01:56.370 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:1fef34
+2015.04.19 14:01:56.371 RX: 8008040500150001031fef34
+
+2015.04.19 14:01:56.444 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:0f113c
+2015.04.19 14:01:56.444 RX: 8008040500150001030f113c
+
+2015.04.19 14:01:56.446 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:0a0f54
+2015.04.19 14:01:56.447 RX: 8008040500150001030a0f54
+
+2015.04.19 14:01:56.448 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:0c1e60
+2015.04.19 14:01:56.448 RX: 8008040500150001030c1e60
+
+2015.04.19 14:01:56.518 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:052062
+2015.04.19 14:01:56.519 RX: 800804050015000103052062
+
+2015.04.19 14:01:56.520 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:001f50
+2015.04.19 14:01:56.521 RX: 800804050015000103001f50
+
+2015.04.19 14:01:56.670 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:0b1740
+2015.04.19 14:01:56.670 RX: 8008040500150001030b1740
+
+2015.04.19 14:01:56.672 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:110e41
+2015.04.19 14:01:56.673 RX: 800804050015000103110e41
+
+2015.04.19 14:01:56.674 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:210638
+2015.04.19 14:01:56.675 RX: 800804050015000103210638
+
+2015.04.19 14:01:56.675 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:2bee2f
+2015.04.19 14:01:56.675 RX: 8008040500150001032bee2f
+
+2015.04.19 14:01:56.677 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:3ee81c
+2015.04.19 14:01:56.678 RX: 8008040500150001033ee81c
+
+2015.04.19 14:01:56.743 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:3ae203
+2015.04.19 14:01:56.744 RX: 8008040500150001033ae203
+
+2015.04.19 14:01:56.745 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:46e3e2
+2015.04.19 14:01:56.746 RX: 80080405001500010346e3e2
+
+2015.04.19 14:01:56.819 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:52dae2
+2015.04.19 14:01:56.819 RX: 80080405001500010352dae2
+
+2015.04.19 14:01:56.894 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:51ebdf
+2015.04.19 14:01:56.895 RX: 80080405001500010351ebdf
+
+2015.04.19 14:01:56.897 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:40e80b
+2015.04.19 14:01:56.898 RX: 80080405001500010340e80b
+
+2015.04.19 14:01:56.899 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:3df61e
+2015.04.19 14:01:56.899 RX: 8008040500150001033df61e
+
+2015.04.19 14:01:56.899 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:36fc25
+2015.04.19 14:01:56.900 RX: 80080405001500010336fc25
+
+2015.04.19 14:01:56.968 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:330b4d
+2015.04.19 14:01:56.969 RX: 800804050015000103330b4d
+
+2015.04.19 14:01:56.972 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:201146
+2015.04.19 14:01:56.972 RX: 800804050015000103201146
+
+2015.04.19 14:01:57.043 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:1d2146
+2015.04.19 14:01:57.044 RX: 8008040500150001031d2146
+
+2015.04.19 14:01:57.046 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:21235c
+2015.04.19 14:01:57.046 RX: 80080405001500010321235c
+
+2015.04.19 14:01:57.195 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:182552
+2015.04.19 14:01:57.195 RX: 800804050015000103182552
+
+2015.04.19 14:01:57.197 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:25391d
+2015.04.19 14:01:57.198 RX: 80080405001500010325391d
+
+2015.04.19 14:01:57.199 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:312515
+2015.04.19 14:01:57.199 RX: 800804050015000103312515
+
+2015.04.19 14:01:57.199 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:3b1a08
+2015.04.19 14:01:57.200 RX: 8008040500150001033b1a08
+
+2015.04.19 14:01:57.202 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:360cfd
+2015.04.19 14:01:57.203 RX: 800804050015000103360cfd
+
+2015.04.19 14:01:57.268 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:270af1
+2015.04.19 14:01:57.269 RX: 800804050015000103270af1
+
+2015.04.19 14:01:57.270 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:2a02de
+2015.04.19 14:01:57.271 RX: 8008040500150001032a02de
+
+2015.04.19 14:01:57.344 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:35f5d4
+2015.04.19 14:01:57.344 RX: 80080405001500010335f5d4
+
+2015.04.19 14:01:57.346 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:32e7d3
+2015.04.19 14:01:57.347 RX: 80080405001500010332e7d3
+
+2015.04.19 14:01:57.349 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:3ddfe5
+2015.04.19 14:01:57.350 RX: 8008040500150001033ddfe5
+
+2015.04.19 14:01:57.418 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:3bc612
+2015.04.19 14:01:57.419 RX: 8008040500150001033bc612
+
+2015.04.19 14:01:57.420 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:36d938
+2015.04.19 14:01:57.421 RX: 80080405001500010336d938
+
+2015.04.19 14:01:57.493 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:39e025
+2015.04.19 14:01:57.494 RX: 80080405001500010339e025
+
+2015.04.19 14:01:57.496 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:14e948
+2015.04.19 14:01:57.496 RX: 80080405001500010314e948
+
+2015.04.19 14:01:57.569 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:f60343
+2015.04.19 14:01:57.569 RX: 800804050015000103f60343
+
+2015.04.19 14:01:57.571 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:ea185f
+2015.04.19 14:01:57.572 RX: 800804050015000103ea185f
+
+2015.04.19 14:01:57.573 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:fd2d63
+2015.04.19 14:01:57.573 RX: 800804050015000103fd2d63
+
+2015.04.19 14:01:57.643 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:1f3e51
+2015.04.19 14:01:57.644 RX: 8008040500150001031f3e51
+
+2015.04.19 14:01:57.645 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:344d1c
+2015.04.19 14:01:57.646 RX: 800804050015000103344d1c
+
+2015.04.19 14:01:57.718 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:393f1a
+2015.04.19 14:01:57.719 RX: 800804050015000103393f1a
+
+2015.04.19 14:01:57.721 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:433609
+2015.04.19 14:01:57.721 RX: 800804050015000103433609
+
+2015.04.19 14:01:57.794 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:341ef0
+2015.04.19 14:01:57.794 RX: 800804050015000103341ef0
+
+2015.04.19 14:01:57.796 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:1006eb
+2015.04.19 14:01:57.797 RX: 8008040500150001031006eb
+
+2015.04.19 14:01:57.798 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:1cf4d7
+2015.04.19 14:01:57.798 RX: 8008040500150001031cf4d7
+
+2015.04.19 14:01:57.868 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:34e7c9
+2015.04.19 14:01:57.869 RX: 80080405001500010334e7c9
+
+2015.04.19 14:01:57.871 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:3de2bb
+2015.04.19 14:01:57.871 RX: 8008040500150001033de2bb
+
+2015.04.19 14:01:57.943 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:44e7af
+2015.04.19 14:01:57.944 RX: 80080405001500010344e7af
+
+2015.04.19 14:01:57.945 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:3be4a7
+2015.04.19 14:01:57.946 RX: 8008040500150001033be4a7
+
+2015.04.19 14:01:58.019 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:27f0b6
+2015.04.19 14:01:58.019 RX: 80080405001500010327f0b6
+
+2015.04.19 14:01:58.021 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:1afbc8
+2015.04.19 14:01:58.022 RX: 8008040500150001031afbc8
+
+2015.04.19 14:01:58.023 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:0c00e3
+2015.04.19 14:01:58.023 RX: 8008040500150001030c00e3
+
+2015.04.19 14:01:58.093 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:25ff03
+2015.04.19 14:01:58.094 RX: 80080405001500010325ff03
+
+2015.04.19 14:01:58.095 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:2a17ed
+2015.04.19 14:01:58.096 RX: 8008040500150001032a17ed
+
+2015.04.19 14:01:58.168 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:3b21f8
+2015.04.19 14:01:58.169 RX: 8008040500150001033b21f8
+
+2015.04.19 14:01:58.170 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:2f31e4
+2015.04.19 14:01:58.171 RX: 8008040500150001032f31e4
+
+2015.04.19 14:01:58.244 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:2837d8
+2015.04.19 14:01:58.244 RX: 8008040500150001032837d8
+
+2015.04.19 14:01:58.246 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:2330da
+2015.04.19 14:01:58.247 RX: 8008040500150001032330da
+
+2015.04.19 14:01:58.248 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:2720d5
+2015.04.19 14:01:58.248 RX: 8008040500150001032720d5
+
+2015.04.19 14:01:58.318 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:3019cb
+2015.04.19 14:01:58.319 RX: 8008040500150001033019cb
+
+2015.04.19 14:01:58.320 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:3515bf
+2015.04.19 14:01:58.321 RX: 8008040500150001033515bf
+
+2015.04.19 14:01:58.393 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:4104d5
+2015.04.19 14:01:58.394 RX: 8008040500150001034104d5
+
+2015.04.19 14:01:58.395 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:52f1ee
+2015.04.19 14:01:58.396 RX: 80080405001500010352f1ee
+
+2015.04.19 14:01:58.469 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:64eef3
+2015.04.19 14:01:58.469 RX: 80080405001500010364eef3
+
+2015.04.19 14:01:58.471 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:5aebf8
+2015.04.19 14:01:58.472 RX: 8008040500150001035aebf8
+
+2015.04.19 14:01:58.473 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:36f0fb
+2015.04.19 14:01:58.474 RX: 80080405001500010336f0fb
+
+2015.04.19 14:01:58.543 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:31e206
+2015.04.19 14:01:58.544 RX: 80080405001500010331e206
+
+2015.04.19 14:01:58.546 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:25ef1f
+2015.04.19 14:01:58.546 RX: 80080405001500010325ef1f
+
+2015.04.19 14:01:58.618 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:22052a
+2015.04.19 14:01:58.619 RX: 80080405001500010322052a
+
+2015.04.19 14:01:58.620 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:21173e
+2015.04.19 14:01:58.621 RX: 80080405001500010321173e
+
+2015.04.19 14:01:58.694 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:291052
+2015.04.19 14:01:58.694 RX: 800804050015000103291052
+
+2015.04.19 14:01:58.696 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:2f1846
+2015.04.19 14:01:58.697 RX: 8008040500150001032f1846
+
+2015.04.19 14:01:58.698 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:44273a
+2015.04.19 14:01:58.699 RX: 80080405001500010344273a
+
+2015.04.19 14:01:58.768 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:582048
+2015.04.19 14:01:58.769 RX: 800804050015000103582048
+
+2015.04.19 14:01:58.770 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:412439
+2015.04.19 14:01:58.771 RX: 800804050015000103412439
+
+2015.04.19 14:01:58.843 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:3a162b
+2015.04.19 14:01:58.844 RX: 8008040500150001033a162b
+
+2015.04.19 14:01:58.845 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:3d1114
+2015.04.19 14:01:58.846 RX: 8008040500150001033d1114
+
+2015.04.19 14:01:58.919 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:331407
+2015.04.19 14:01:58.919 RX: 800804050015000103331407
+
+2015.04.19 14:01:58.921 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:2a11fb
+2015.04.19 14:01:58.922 RX: 8008040500150001032a11fb
+
+2015.04.19 14:01:58.923 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:2a13f1
+2015.04.19 14:01:58.923 RX: 8008040500150001032a13f1
+
+2015.04.19 14:01:58.993 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:2d11e8
+2015.04.19 14:01:58.994 RX: 8008040500150001032d11e8
+
+2015.04.19 14:01:58.996 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:2f13df
+2015.04.19 14:01:58.997 RX: 8008040500150001032f13df
+
+2015.04.19 14:01:59.068 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:3413db
+2015.04.19 14:01:59.069 RX: 8008040500150001033413db
+
+2015.04.19 14:01:59.071 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:3c1bd3
+2015.04.19 14:01:59.071 RX: 8008040500150001033c1bd3
+
+2015.04.19 14:01:59.144 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:451cca
+2015.04.19 14:01:59.144 RX: 800804050015000103451cca
+
+2015.04.19 14:01:59.219 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:5317dc
+2015.04.19 14:01:59.220 RX: 8008040500150001035317dc
+
+2015.04.19 14:01:59.221 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:6d07ee
+2015.04.19 14:01:59.222 RX: 8008040500150001036d07ee
+
+2015.04.19 14:01:59.223 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:63fdfb
+2015.04.19 14:01:59.224 RX: 80080405001500010363fdfb
+
+2015.04.19 14:01:59.224 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:450006
+2015.04.19 14:01:59.224 RX: 800804050015000103450006
+
+2015.04.19 14:01:59.293 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:2ef720
+2015.04.19 14:01:59.294 RX: 8008040500150001032ef720
+
+2015.04.19 14:01:59.295 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:1fe63a
+2015.04.19 14:01:59.296 RX: 8008040500150001031fe63a
+
+2015.04.19 14:01:59.445 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:19083a
+2015.04.19 14:01:59.445 RX: 80080405001500010319083a
+
+2015.04.19 14:01:59.447 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:23073e
+2015.04.19 14:01:59.448 RX: 80080405001500010323073e
+
+2015.04.19 14:01:59.450 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:221446
+2015.04.19 14:01:59.450 RX: 800804050015000103221446
+
+2015.04.19 14:01:59.451 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:2c1139
+2015.04.19 14:01:59.451 RX: 8008040500150001032c1139
+
+2015.04.19 14:01:59.454 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:33242f
+2015.04.19 14:01:59.455 RX: 80080405001500010333242f
+
+2015.04.19 14:01:59.518 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:4c1939
+2015.04.19 14:01:59.519 RX: 8008040500150001034c1939
+
+2015.04.19 14:01:59.520 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:511f2c
+2015.04.19 14:01:59.521 RX: 800804050015000103511f2c
+
+2015.04.19 14:01:59.594 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:471b12
+2015.04.19 14:01:59.594 RX: 800804050015000103471b12
+
+2015.04.19 14:01:59.596 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:3c1604
+2015.04.19 14:01:59.597 RX: 8008040500150001033c1604
+
+2015.04.19 14:01:59.598 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:2f14f2
+2015.04.19 14:01:59.599 RX: 8008040500150001032f14f2
+
+2015.04.19 14:01:59.668 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:2f12f0
+2015.04.19 14:01:59.669 RX: 8008040500150001032f12f0
+
+2015.04.19 14:01:59.670 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:2d12e7
+2015.04.19 14:01:59.671 RX: 8008040500150001032d12e7
+
+2015.04.19 14:01:59.743 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:3211e8
+2015.04.19 14:01:59.744 RX: 8008040500150001033211e8
+
+2015.04.19 14:01:59.746 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:3619e0
+2015.04.19 14:01:59.746 RX: 8008040500150001033619e0
+
+2015.04.19 14:01:59.819 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:3112d5
+2015.04.19 14:01:59.819 RX: 8008040500150001033112d5
+
+2015.04.19 14:01:59.822 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:3a10d9
+2015.04.19 14:01:59.823 RX: 8008040500150001033a10d9
+
+2015.04.19 14:01:59.824 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:4b09d9
+2015.04.19 14:01:59.824 RX: 8008040500150001034b09d9
+
+2015.04.19 14:01:59.893 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:5af9f1
+2015.04.19 14:01:59.894 RX: 8008040500150001035af9f1
+
+2015.04.19 14:01:59.896 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:6c03f7
+2015.04.19 14:01:59.896 RX: 8008040500150001036c03f7
+
+2015.04.19 14:01:59.968 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:5af703
+2015.04.19 14:01:59.969 RX: 8008040500150001035af703
+
+2015.04.19 14:01:59.970 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:3efb0b
+2015.04.19 14:01:59.971 RX: 8008040500150001033efb0b
+
+2015.04.19 14:02:00.043 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:2bf422
+2015.04.19 14:02:00.044 RX: 8008040500150001032bf422
+
+2015.04.19 14:02:00.046 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:1bf92e
+2015.04.19 14:02:00.047 RX: 8008040500150001031bf92e
+
+2015.04.19 14:02:00.048 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:140e36
+2015.04.19 14:02:00.048 RX: 800804050015000103140e36
+
+2015.04.19 14:02:00.118 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:0efc4b
+2015.04.19 14:02:00.119 RX: 8008040500150001030efc4b
+
+2015.04.19 14:02:00.120 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:100a49
+2015.04.19 14:02:00.121 RX: 800804050015000103100a49
+
+2015.04.19 14:02:00.193 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:171240
+2015.04.19 14:02:00.194 RX: 800804050015000103171240
+
+2015.04.19 14:02:00.269 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:271e3c
+2015.04.19 14:02:00.270 RX: 800804050015000103271e3c
+
+2015.04.19 14:02:00.272 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:451942
+2015.04.19 14:02:00.272 RX: 800804050015000103451942
+
+2015.04.19 14:02:00.273 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:491b2a
+2015.04.19 14:02:00.274 RX: 800804050015000103491b2a
+
+2015.04.19 14:02:00.274 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:3a1e1d
+2015.04.19 14:02:00.275 RX: 8008040500150001033a1e1d
+
+2015.04.19 14:02:00.343 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:3a0e0b
+2015.04.19 14:02:00.344 RX: 8008040500150001033a0e0b
+
+2015.04.19 14:02:00.345 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:3b0c01
+2015.04.19 14:02:00.346 RX: 8008040500150001033b0c01
+
+2015.04.19 14:02:00.418 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:3b09f9
+2015.04.19 14:02:00.418 RX: 8008040500150001033b09f9
+
+2015.04.19 14:02:00.420 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:3610ec
+2015.04.19 14:02:00.421 RX: 8008040500150001033610ec
+
+2015.04.19 14:02:00.494 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:310fe3
+2015.04.19 14:02:00.494 RX: 800804050015000103310fe3
+
+2015.04.19 14:02:00.496 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:3219db
+2015.04.19 14:02:00.497 RX: 8008040500150001033219db
+
+2015.04.19 14:02:00.498 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:331dd7
+2015.04.19 14:02:00.498 RX: 800804050015000103331dd7
+
+2015.04.19 14:02:00.568 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:3e20da
+2015.04.19 14:02:00.569 RX: 8008040500150001033e20da
+
+2015.04.19 14:02:00.571 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:551dd3
+2015.04.19 14:02:00.572 RX: 800804050015000103551dd3
+
+2015.04.19 14:02:00.643 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:681be3
+2015.04.19 14:02:00.644 RX: 800804050015000103681be3
+
+2015.04.19 14:02:00.646 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:6e0ce8
+2015.04.19 14:02:00.647 RX: 8008040500150001036e0ce8
+
+2015.04.19 14:02:00.718 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:5008ef
+2015.04.19 14:02:00.719 RX: 8008040500150001035008ef
+
+2015.04.19 14:02:00.721 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:3f010a
+2015.04.19 14:02:00.722 RX: 8008040500150001033f010a
+
+2015.04.19 14:02:00.723 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:2c011f
+2015.04.19 14:02:00.723 RX: 8008040500150001032c011f
+
+2015.04.19 14:02:00.793 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:18022f
+2015.04.19 14:02:00.793 RX: 80080405001500010318022f
+
+2015.04.19 14:02:00.796 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:060d3e
+2015.04.19 14:02:00.796 RX: 800804050015000103060d3e
+
+2015.04.19 14:02:00.868 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:0b004a
+2015.04.19 14:02:00.869 RX: 8008040500150001030b004a
+
+2015.04.19 14:02:00.871 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:0a044f
+2015.04.19 14:02:00.871 RX: 8008040500150001030a044f
+
+2015.04.19 14:02:00.931 ble_cmd_attclient_attribute_write connection: 0 (0x00) atthandle: 22 (0x0016) data: 00
+2015.04.19 14:02:00.932 TX: 000504050016000100
+
+2015.04.19 14:02:00.934 ble_rsp_attclient_attribute_write connection: 0 (0x00) result: 0 ['No Error']
+2015.04.19 14:02:00.935 RX: 00030405000000
+
+2015.04.19 14:02:00.944 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:160b4f
+2015.04.19 14:02:00.944 RX: 800804050015000103160b4f
+
+2015.04.19 14:02:00.946 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:290b48
+2015.04.19 14:02:00.947 RX: 800804050015000103290b48
+
+2015.04.19 14:02:00.948 ble_evt_attclient_attribute_value atthandle: 21 (0x0015) type: 1 (0x01) value:350f34
+
+

@@ -1,4 +1,4 @@
-38
+48
 0:0	GAP_AD_FLAG_BREDR_NOT_SUPPORTED
 0:0	GAP_AD_FLAG_GENERAL_DISCOVERABLE
 0:0	GAP_AD_FLAG_LIMITED_DISCOVERABLE
@@ -12,6 +12,7 @@
 0:0	GAP_SCAN_HEADER_CONNECT_REQ
 0:0	GAP_SCAN_HEADER_SCAN_REQ
 0:0	GAP_SCAN_HEADER_SCAN_RSP
+0:0	acc_reading
 0:0	attclient_attribute_value_type_indicate
 0:0	attclient_attribute_value_type_indicate_rsp_req
 0:0	attclient_attribute_value_type_notify
@@ -58,7 +59,7 @@
 0:0	gap_scannable_non_connectable
 0:0	gap_undirected_connectable
 0:0	gap_user_data
-0:0	light_value
+0:0	hr_reading
 0:0	sm_bonding_key_addr_public
 0:0	sm_bonding_key_addr_static
 0:0	sm_bonding_key_csrk
@@ -77,14 +78,13 @@
 0:0	system_endpoint_uart0
 0:0	system_endpoint_uart1
 0:0	system_endpoint_usb
-0:0	thermo_value
-0:4	wiper0
-4:4	light_current
-8:4	thermo
-12:2	spi_command
-14:4	delay
-18:4	rhandle
-22:4	roffset
-26:4	rresult
-30:4	rvalue_len
-34:4	rvalue_data
+0:0	temp_reading
+0:16	buffer_hr
+16:2	tmp_hr
+18:2	buffer_temp
+20:4	tmp_i2c
+24:12	acc
+36:4	i2c_result
+40:4	data_len
+44:4	c_adc
+48:0	acc_addr

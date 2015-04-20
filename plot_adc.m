@@ -23,13 +23,14 @@ fclose(fh);
 
 L = length(data);
 t = (0:L-1)/fs;
-NFFT = 2^nextpow2(L);
-Y = fft(data,NFFT)/L;
-f = fs/2*linspace(0,1,NFFT/2+1);
-subplot(2,1,1)
-plot(t,data)
-subplot(2,1,2)
-plot(f,2*abs(Y(1:NFFT/2+1)))
+plot(data)
+% NFFT = 2^nextpow2(L);
+% Y = fft(data,NFFT)/L;
+% f = fs/2*linspace(0,1,NFFT/2+1);
+% subplot(2,1,1)
+% plot(t,data)
+% subplot(2,1,2)
+% plot(f,2*abs(Y(1:NFFT/2+1)))
 % hold on
 % d_max = max(data);
 % d_min = min(data);
